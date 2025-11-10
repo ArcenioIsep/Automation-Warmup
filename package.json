@@ -1,0 +1,22 @@
+{
+  "name": "automation-warmup",
+  "version": "1.0.0",
+  "description": "🧪 A warm-up project for end-to-end test automation using Playwright. Includes test cases, test data, and examples to practice browser automation.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArcenioIsep/Automation-Warmup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArcenioIsep/Automation-Warmup/issues"
+  },
+  "homepage": "https://github.com/ArcenioIsep/Automation-Warmup#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.0"
+  }
+}
